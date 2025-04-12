@@ -1,4 +1,4 @@
-The official AdaOS wallpapers repository
+The official AdaOS wallpaper repository
 
 
 - Made By bladetech
